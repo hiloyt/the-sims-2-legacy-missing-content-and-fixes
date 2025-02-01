@@ -1,6 +1,12 @@
 # the-sims-2-legacy-missing-content-and-fixes
 This is where you can learn how to restore the Ikea SP to The Sims 2 Legacy, restore missing music or song tracks from the radio, and learn a few other helpful fixes!
 
+# List of fixes
+
+1. IKEA SP restored [is back](https://github.com/hiloyt/the-sims-2-legacy-ikea)!
+2. Missing songs [restored](#missing-songs)
+3. Missing Holiday items [restored](#missing-holiday-items)
+
 ## The Sims 2: IKEA Home Stuff is back!
 
 You can find a detailed tutorial on restoring `IKEA` SP to `The Sims 2 Legacy` under this [link](https://github.com/hiloyt/the-sims-2-legacy-ikea).
@@ -9,9 +15,9 @@ You can find a detailed tutorial on restoring `IKEA` SP to `The Sims 2 Legacy` u
 Due to expired licenses, several music tracks have been permanently removed from The Sims 2 Legacy.
 
 If you still have those expansions or are a lucky owner of `The Sims 2 Ultimate Collection`, you can quickly restore them!
-The entire process is tedious, involving copying/pasting from one place to another. But hey, you can have all your favourite songs back in the game soon!
+The process is tedious, involving copying/pasting from one place to another. But hey, you can have all your favourite songs back in the game soon!
 
-Here, you can find the SOURCE and DESTINATION locations of files that you need to replace. The included list is from `The Sims 2 Ultimate Collection`, so it can be slightly different in disk edition/older releases. But you still can use EP/SP names to figure it out! :)
+Here, you can find the SOURCE and DESTINATION locations of files that you need to replace. The included list is from `The Sims 2 Ultimate Collection`, so it can differ slightly in disk edition/older releases. But you still can use EP/SP names to figure it out! :)
 
 Affected stations and EP/SP:
 ### 1. EP1 - CollegeRock.package
@@ -61,3 +67,12 @@ The Sims 2 Legacy Collection\SP6\TSData\Res\Sound
 The Sims 2 Ultimate Collection\Best of Business\SP7\TSData\Res\Sound
 
 The Sims 2 Legacy Collection\SP7\TSData\Res\Sound
+
+## Missing Holiday items
+The situation with this mini pack is precisely the same as in `The Sims 2 Ultimate Collection` - EA used old files for this mini pack with `Legacy Edition`, so some items are missing.
+
+Here is [the link](https://sunradersims.com/2020/11/fix-for-missing-holiday-items/) to the fix and attached files.
+
+But in our case, paths are a little different:
+1. `H05.bundle.package` > `The Sims 2 Legacy Collection\Base\TSData\Res\Catalog\Bins`
+2. `Skins.package` > `The Sims 2 Legacy Collection\Base\TSData\Res\Catalog\Skins`
