@@ -71,7 +71,7 @@ The Sims 2 Legacy Collection\SP7\TSData\Res\Sound
 ## Missing Holiday items
 The situation with this mini pack is precisely the same as in `The Sims 2 Ultimate Collection` - EA used old files for this mini pack with `Legacy Edition`, so some items are missing.
 
-Here is [the link](https://sunradersims.com/2020/11/fix-for-missing-holiday-items/) to the fix and attached files.
+Here is [the link](https://sunradersims.wordpress.com/2020/11/25/fix-for-missing-holiday-items/) to the fix and attached files.
 
 But in our case, paths are a little different:
 1. `H05.bundle.package` > `The Sims 2 Legacy Collection\Base\TSData\Res\Catalog\Bins`
