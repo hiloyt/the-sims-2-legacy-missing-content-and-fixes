@@ -26,43 +26,31 @@ The Sims 2 Ultimate Collection\University Life\EP1\TSData\Res\Sound
 
 The Sims 2 Legacy Collection\EP1\TSData\Res\Sound
 
-### 2. EP3 - NewWave.package
-
-The Sims 2 Ultimate Collection\Best of Business\EP3\TSData\Res\Sound
-
-The Sims 2 Legacy Collection\EP3\TSData\Res\Sound
-
-### 3. EP6 - Reggae.package
+### 2. EP6 - Reggae.package
 
 The Sims 2 Ultimate Collection\Bon Voyage\TSData\Res\Sound
 
 The Sims 2 Legacy Collection\EP6\TSData\Res\Sound
 
-### 4. EP7 - Pop.package
-
-The Sims 2 Ultimate Collection\Free Time\TSData\Res\Sound
-
-The Sims 2 Legacy Collection\EP7\TSData\Res\Sound
-
-### 5. EP8 - CollegeRock.package & Pop.package
+### 3. EP8 - CollegeRock.package & Pop.package
 
 The Sims 2 Ultimate Collection\Apartment Life\TSData\Res\Sound
 
 The Sims 2 Legacy Collection\EP8\TSData\Res\Sound
 
-### 6. SP5 - Pop.package
+### 4. SP5 - Pop.package
 
 The Sims 2 Ultimate Collection\Best of Business\SP5\TSData\Res\Sound
 
 The Sims 2 Legacy Collection\SP5\TSData\Res\Sound
 
-### 7. SP6 - Metal.package
+### 5. SP6 - Metal.package
 
 The Sims 2 Ultimate Collection\University Life\SP6\TSData\Res\Sound
 
 The Sims 2 Legacy Collection\SP6\TSData\Res\Sound
 
-### 8. SP7 - Salsa.package
+### 6. SP7 - Salsa.package
 
 The Sims 2 Ultimate Collection\Best of Business\SP7\TSData\Res\Sound
 
